@@ -54,11 +54,10 @@
         "test_farms": [1, 3997]
     },
     "relays_urls": [
-        "wss://relay.grid.tf"
+      "wss://relay.not.grid.tf"
     ],
     "substrate_urls": [
-        "wss://tfchain.grid.tf/",
-        "wss://04.tfchain.grid.tf/"
+        "wss://tfchain.grid.threefold.me/"
     ],
     "activation_urls": [
         "https://activation.grid.tf/activation/activate",
@@ -80,6 +79,6 @@
     "hub_storage": "zdb://hub.grid.tf:9900",
     "v4_hub_storage": "zdb://v4.hub.grid.tf:9940",
     "bin_repo": "tf-zos-v3-bins",
-    "kyc_url": "https://kyc.threefold.me",
+    "kyc_url": "https://kyc.grid.tf",
     "registrar_url": "https://registrar.prod4.threefold.me"
 }
