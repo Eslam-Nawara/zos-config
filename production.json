@@ -57,7 +57,8 @@
       "wss://relay.grid.tf"
     ],
     "substrate_urls": [
-        "wss://tfchain.grid.threefold.me/"
+        "wss://tfchain.grid.threefold.me/",
+        "wss://tfchain.grid.tf/"
     ],
     "activation_urls": [
         "https://activation.grid.tf/activation/activate",
