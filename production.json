@@ -54,10 +54,9 @@
         "test_farms": [1, 3997]
     },
     "relays_urls": [
-      "wss://relay.grid.tf.worng"
+      "wss://relay.02.grid.tf"
     ],
     "substrate_urls": [
-        "wss://tfchain.grid.threefold.me/",
         "wss://tfchain.grid.tf/"
     ],
     "activation_urls": [
